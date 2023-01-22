@@ -1,14 +1,16 @@
+$first-color : #EFCD76;
+$second-color: #CAD09E;
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 body{
     width:100%;
     height: auto;
+    background-color: $first-color;
     #app{
-        width: 100%;
-        
+        width: 100%; 
     }
 }

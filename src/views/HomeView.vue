@@ -10,7 +10,7 @@ import Coin from '@/components/CoinComponent/Coin.vue';
 <style lang="scss" scoped>
   main{
       width: 100%;
-      height: 50vh;
+      height: 80vh;
       display: flex;
       flex-direction: row;
       justify-content: center;
